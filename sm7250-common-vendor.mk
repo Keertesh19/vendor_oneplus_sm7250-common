@@ -849,6 +849,7 @@ PRODUCT_PACKAGES += \
     daxService \
     ims \
     qcrilmsgtunnel \
+    WfdCommon \
     com.motorola.motosignature \
     moto-checkin \
     tcmclient \
